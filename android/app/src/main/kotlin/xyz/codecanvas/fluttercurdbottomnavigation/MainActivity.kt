@@ -1,0 +1,6 @@
+package xyz.codecanvas.fluttercurdbottomnavigation
+
+import io.flutter.embedding.android.FlutterActivity
+
+class MainActivity: FlutterActivity() {
+}
